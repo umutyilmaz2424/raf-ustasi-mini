@@ -1,0 +1,22 @@
+[
+  {"id":1,"slot_count":7,"rows":[["milk","juice","chips","milk"],["juice","chips","milk","juice"],["chips","soap","soap","soap"]]},
+  {"id":2,"slot_count":7,"rows":[["apple","banana","water","apple"],["banana","water","apple","banana"],["water","coffee","coffee","coffee"]]},
+  {"id":3,"slot_count":7,"rows":[["milk","choco","detergent","toy"],["toy","milk","choco","detergent"],["detergent","toy","milk","choco"]]},
+  {"id":4,"slot_count":7,"rows":[["shampoo","soap","coffee","water"],["coffee","water","shampoo","soap"],["soap","shampoo","water","coffee"]]},
+  {"id":5,"slot_count":7,"rows":[["apple","banana","chips","juice","milk"],["banana","chips","juice","milk","apple"],["chips","juice","milk","apple","banana"]]},
+  {"id":6,"slot_count":7,"rows":[["toy","water","coffee","soap","detergent"],["coffee","detergent","toy","water","soap"],["soap","toy","detergent","coffee","water"]]},
+  {"id":7,"slot_count":7,"rows":[["milk","juice","chips","choco","apple","banana"],["juice","chips","choco","apple","banana","milk"],["chips","choco","apple","banana","milk","juice"]]},
+  {"id":8,"slot_count":7,"rows":[["water","coffee","soap","shampoo","detergent","toy"],["coffee","soap","shampoo","detergent","toy","water"],["soap","shampoo","detergent","toy","water","coffee"]]},
+  {"id":9,"slot_count":7,"rows":[["apple","water","milk","soap","toy","choco"],["toy","apple","water","milk","soap","choco"],["choco","toy","apple","water","milk","soap"]]},
+  {"id":10,"slot_count":7,"rows":[["banana","juice","chips","coffee","shampoo","detergent"],["detergent","banana","juice","chips","coffee","shampoo"],["shampoo","detergent","banana","juice","chips","coffee"]]},
+  {"id":11,"slot_count":7,"rows":[["milk","juice","chips","choco","apple","banana","water"],["juice","chips","choco","apple","banana","water","milk"],["chips","choco","apple","banana","water","milk","juice"]]},
+  {"id":12,"slot_count":7,"rows":[["coffee","soap","shampoo","detergent","toy","apple","water"],["soap","shampoo","detergent","toy","apple","water","coffee"],["shampoo","detergent","toy","apple","water","coffee","soap"]]},
+  {"id":13,"slot_count":7,"rows":[["milk","banana","coffee","toy","soap","chips","water"],["water","milk","banana","coffee","toy","soap","chips"],["chips","water","milk","banana","coffee","toy","soap"]]},
+  {"id":14,"slot_count":7,"rows":[["juice","apple","detergent","shampoo","choco","coffee","toy"],["toy","juice","apple","detergent","shampoo","choco","coffee"],["coffee","toy","juice","apple","detergent","shampoo","choco"]]},
+  {"id":15,"slot_count":7,"rows":[["milk","juice","chips","choco","apple","banana","water","coffee"],["chips","choco","apple","banana","water","coffee","milk","juice"],["water","coffee","milk","juice","chips","choco","apple","banana"]]},
+  {"id":16,"slot_count":7,"rows":[["soap","shampoo","detergent","toy","apple","banana","water","coffee"],["detergent","toy","apple","banana","water","coffee","soap","shampoo"],["water","coffee","soap","shampoo","detergent","toy","apple","banana"]]},
+  {"id":17,"slot_count":7,"rows":[["milk","soap","juice","shampoo","chips","detergent","choco","toy"],["chips","detergent","choco","toy","milk","soap","juice","shampoo"],["juice","shampoo","chips","detergent","choco","toy","milk","soap"]]},
+  {"id":18,"slot_count":7,"rows":[["apple","water","banana","coffee","milk","soap","juice","shampoo"],["milk","soap","juice","shampoo","apple","water","banana","coffee"],["banana","coffee","milk","soap","juice","shampoo","apple","water"]]},
+  {"id":19,"slot_count":7,"rows":[["chips","detergent","choco","toy","apple","banana","water","coffee"],["apple","banana","water","coffee","chips","detergent","choco","toy"],["choco","toy","apple","banana","water","coffee","chips","detergent"]]},
+  {"id":20,"slot_count":7,"rows":[["milk","juice","chips","choco","apple","banana","water","coffee","soap"],["choco","apple","banana","water","coffee","soap","milk","juice","chips"],["water","coffee","soap","milk","juice","chips","choco","apple","banana"]]}
+]
